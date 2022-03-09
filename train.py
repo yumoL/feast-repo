@@ -33,7 +33,11 @@ target = "trip_completed"
 reg = LinearRegression()
 train_X = training_df[training_df.columns.drop(target).drop("event_timestamp")]
 train_Y = training_df.loc[:, target]
+print("---------------train_X---------------")
+print(train_X)
+print("---------------train_Y---------------")
+print(train_Y)
 reg.fit(train_X[sorted(train_X)], train_Y)
 
 # Save model
-dump(reg, "driver_model.bin")
+dump(reg, "model.joblib")

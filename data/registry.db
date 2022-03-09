@@ -7,14 +7,15 @@ C
 %
 __dummy"
 __dummy_idJfeature_repo
-®š‘èŠ”v®š‘èŠ”v1"$3515a9e1-4588-4699-9760-5d92f2d2b82c*Àš‘Øıóª2„
+®š‘èŠ”v®š‘èŠ”v1"$8cd94b74-c56a-4d87-a1b0-23d8f3aa32d1*û’œ‘ˆ©Ã2›
 ã
 driver_hourly_statsfeature_repo	driver_id"
 	conv_rate"
 acc_rate"
 avg_daily_trips*
-teamdriver_performance2€Äÿ:Ûevent_timestamp*createdZDB/home/local/luoyumo/Desktop/feature_repo/data/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢B/home/local/luoyumo/Desktop/feature_repo/data/driver_stats.parquet@
-Àš‘°íáªÀš‘°íáªR”
+teamdriver_performance2€Äÿ:Ûevent_timestamp*createdZDB/home/local/luoyumo/Desktop/feature_repo/data/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢B/home/local/luoyumo/Desktop/feature_repo/data/driver_stats.parquet@3
+Àš‘°íáªû’œ‘Ğ»µ
+ûÎœ‚ÀÄû}å’œ‘R”
 ‘
 ,feast.infra.online_stores.sqlite.SqliteTable"a
 =/home/local/luoyumo/Desktop/feature_repo/data/online_store.db feature_repo_driver_hourly_statsb¶event_timestamp*createdZDB/home/local/luoyumo/Desktop/feature_repo/data/driver_stats.parquet¢B/home/local/luoyumo/Desktop/feature_repo/data/driver_stats.parquetªfeature_repo
